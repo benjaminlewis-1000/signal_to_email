@@ -67,6 +67,7 @@ Run the script:
 
 python send_email.py
 
+NOTE: This must be run on a machine with a browser. If you want this to eventually be headless, please run initially on a browser, then copy token.json to the headless machine.
 
 Browser Window: On the first run, the script will automatically open a browser window asking you to log in to your Google Account and grant permission (the gmail.send scope) to your application.
 
